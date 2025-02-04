@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muthukrishnan
 - 👀 I’m interested in Data analysis & Viz
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently working as Data Analyst
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 Reach me muthukrishnan.h@gmail.com
 
